@@ -1,4 +1,4 @@
-# 🏛️ gu legislation file tree
+# 🏛️ Guam legislation file tree
 
 Download a copy of your states legislation.
 
